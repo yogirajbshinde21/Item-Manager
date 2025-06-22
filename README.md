@@ -133,7 +133,7 @@ backend/
 
 ---
 
-**Built for ReactJS Internship Assignment** | *Demonstrates full-stack development capabilities*
+**Built in ReactJS** | *Demonstrates full-stack development capabilities*
    ```bash
    cd "AMRR TechSols Project"
    ```
