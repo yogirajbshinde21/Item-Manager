@@ -134,22 +134,19 @@ backend/
 ---
 
 **Built in ReactJS** | *Demonstrates full-stack development capabilities*
-   ```bash
-   cd "AMRR TechSols Project"
-   ```
 
-2. **Frontend Setup**
+1. **Frontend Setup**
    ```bash
    npm install
    ```
 
-3. **Backend Setup**
+2. **Backend Setup**
    ```bash
    cd backend
    npm install
    ```
 
-4. **Database Configuration**
+3. **Database Configuration**
    - Ensure MongoDB is running locally on port 27017
    - Or update `backend/.env` with your MongoDB connection string
 
