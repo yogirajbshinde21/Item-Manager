@@ -1,4 +1,4 @@
-# 🚀 ReactJS Item Manager - Internship Assignment
+# 🚀 ReactJS Item Manager
 
 A modern full-stack web application for managing items with image uploads, search functionality, and email notifications. Built with React.js, Node.js, and MongoDB.
 
