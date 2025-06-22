@@ -6,21 +6,6 @@ A modern full-stack web application for managing items with image uploads, searc
 
 This project demonstrates proficiency in full-stack development, featuring a complete item management system with advanced functionality including database integration, file uploads, and email services.
 
-## ✨ Key Features
-
-- **📝 Add Items**: Form-based item creation with image uploads
-- **👀 View Items**: Dynamic listing with search and filter capabilities  
-- **🖼️ Item Details**: Modal view with image carousel
-- **📧 Email Enquiries**: Automated email notifications
-- **📱 Responsive Design**: Mobile-friendly interface
-
-## 🛠️ Technology Stack
-
-**Frontend**: React 18, Vite, React Router, Axios, CSS3  
-**Backend**: Node.js, Express.js, MongoDB, Mongoose  
-**Email**: Nodemailer with Gmail integration  
-**File Upload**: Multer for image handling
-
 ## 📸 Project Walkthrough
 
 ### 1. **Homepage & Navigation**
@@ -62,6 +47,21 @@ Clicking any item opens a detailed modal with complete information and navigable
 > *Screenshot: Enquire button and email confirmation*
 
 The enquiry button sends automated emails to a static email address with item details and user information.
+
+## ✨ Key Features
+
+- **📝 Add Items**: Form-based item creation with image uploads
+- **👀 View Items**: Dynamic listing with search and filter capabilities  
+- **🖼️ Item Details**: Modal view with image carousel
+- **📧 Email Enquiries**: Automated email notifications
+- **📱 Responsive Design**: Mobile-friendly interface
+
+## 🛠️ Technology Stack
+
+**Frontend**: React 18, Vite, React Router, Axios, CSS3  
+**Backend**: Node.js, Express.js, MongoDB, Mongoose  
+**Email**: Nodemailer with Gmail integration  
+**File Upload**: Multer for image handling
 
 ## � Quick Setup
 
