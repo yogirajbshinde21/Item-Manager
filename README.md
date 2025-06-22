@@ -9,42 +9,40 @@ This project demonstrates proficiency in full-stack development, featuring a com
 ## 📸 Project Walkthrough
 
 ### 1. **Homepage & Navigation**
-> *Screenshot: Main navigation showing "View Items" and "Add Item" links*
+> ![image](https://github.com/user-attachments/assets/8a788eb4-c4a9-4585-ba9f-18197babcb0f)
 
 The application starts with a clean navigation interface allowing users to switch between viewing existing items and adding new ones.
 
 ### 2. **Add Item Form**
-> *Screenshot: Add item form with all fields (name, type, description, cover image, additional images)*
+> ![image](https://github.com/user-attachments/assets/5d1afd78-d2cf-4df3-bba6-22c8cf5e9e62)
 
 Users can create new items by filling out a comprehensive form with validation, image preview, and success feedback.
 
-### 3. **Image Upload & Preview**
-> *Screenshot: Form showing image upload areas with preview functionality*
-
-Real-time image previews allow users to see their uploads before submission, with support for multiple additional images.
-
-### 4. **Success Confirmation**
-> *Screenshot: "Item successfully added" success message*
+### 3. **Success Confirmation**
+> ![image](https://github.com/user-attachments/assets/31d3d8ce-0de3-4823-ba51-510a7f18876b)
 
 Clear feedback confirms successful item creation with database storage confirmation.
 
-### 5. **Items Listing Page**
-> *Screenshot: Grid view of items showing names and cover images*
+### 4. **Items Listing Page**
+> ![image](https://github.com/user-attachments/assets/847b836f-8517-4aa1-9aee-7e8e12e7f9c7)
 
 All items are displayed in an attractive grid layout with search, filter, and view mode options.
 
-### 6. **Search & Filter Functionality**
-> *Screenshot: Search bar and filter dropdown in action*
+### 5. **Search & Filter Functionality**
+> ![image](https://github.com/user-attachments/assets/68d57033-e84e-4eb7-8a1e-0f9dc73df13d)
 
 Users can efficiently find items using the search functionality and type-based filtering.
 
-### 7. **Item Details Modal**
-> *Screenshot: Modal showing item details with image carousel*
+### 6. **Item Details Modal**
+> ![image](https://github.com/user-attachments/assets/f50d4405-4ab4-43c8-93a3-bc344f078550)
 
 Clicking any item opens a detailed modal with complete information and navigable image carousel.
 
-### 8. **Email Enquiry Feature**
-> *Screenshot: Enquire button and email confirmation*
+### 7. **Email Enquiry Feature**
+> ![image](https://github.com/user-attachments/assets/ec14ae09-9278-4e04-a982-8da6ad7e3385)
+
+> ![image](https://github.com/user-attachments/assets/90bfc16e-6b80-4d10-b8df-ff596d6906af)
+
 
 The enquiry button sends automated emails to a static email address with item details and user information.
 
